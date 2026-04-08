@@ -17,7 +17,7 @@ const app  = express();
 const PORT = process.env.PORT || 3000;
 
 // ── YOUR GROQ API KEY ──────────────────────────────────
-const GROQ_API_KEY = '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';
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
 const GROQ_MODEL   = 'llama-3.3-70b-versatile';
 // ──────────────────────────────────────────────────────
 
