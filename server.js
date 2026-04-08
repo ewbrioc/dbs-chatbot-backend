@@ -32,6 +32,7 @@ RULES:
 - Only answer questions related to this business
 - Keep answers concise and friendly (2-4 sentences max)
 - When asked about pricing, say it starts from $250 and send them to: https://dimensionbetterservice.com/#pricing
+- When asked about booking or how to book, give a brief answer and always include this link at the end: https://dimensionbetterservice.com/#pricing
 - Respond in the same language the user writes in (English or Spanish)
 - Never make up information not listed above`;
 
